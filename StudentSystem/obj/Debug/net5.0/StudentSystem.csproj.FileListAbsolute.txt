@@ -1,0 +1,16 @@
+C:\Users\zamanjs\source\repos\Student System Solution\StudentSystem\obj\Debug\net5.0\StudentSystem.csproj.AssemblyReference.cache
+C:\Users\zamanjs\source\repos\Student System Solution\StudentSystem\obj\Debug\net5.0\StudentSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zamanjs\source\repos\Student System Solution\StudentSystem\obj\Debug\net5.0\StudentSystem.AssemblyInfoInputs.cache
+C:\Users\zamanjs\source\repos\Student System Solution\StudentSystem\obj\Debug\net5.0\StudentSystem.AssemblyInfo.cs
+C:\Users\zamanjs\source\repos\Student System Solution\StudentSystem\obj\Debug\net5.0\StudentSystem.csproj.CoreCompileInputs.cache
+C:\Users\zamanjs\source\repos\Student System Solution\StudentSystem\bin\Debug\net5.0\StudentSystem.exe
+C:\Users\zamanjs\source\repos\Student System Solution\StudentSystem\bin\Debug\net5.0\StudentSystem.deps.json
+C:\Users\zamanjs\source\repos\Student System Solution\StudentSystem\bin\Debug\net5.0\StudentSystem.runtimeconfig.json
+C:\Users\zamanjs\source\repos\Student System Solution\StudentSystem\bin\Debug\net5.0\StudentSystem.runtimeconfig.dev.json
+C:\Users\zamanjs\source\repos\Student System Solution\StudentSystem\bin\Debug\net5.0\StudentSystem.dll
+C:\Users\zamanjs\source\repos\Student System Solution\StudentSystem\bin\Debug\net5.0\ref\StudentSystem.dll
+C:\Users\zamanjs\source\repos\Student System Solution\StudentSystem\bin\Debug\net5.0\StudentSystem.pdb
+C:\Users\zamanjs\source\repos\Student System Solution\StudentSystem\obj\Debug\net5.0\StudentSystem.dll
+C:\Users\zamanjs\source\repos\Student System Solution\StudentSystem\obj\Debug\net5.0\ref\StudentSystem.dll
+C:\Users\zamanjs\source\repos\Student System Solution\StudentSystem\obj\Debug\net5.0\StudentSystem.pdb
+C:\Users\zamanjs\source\repos\Student System Solution\StudentSystem\obj\Debug\net5.0\StudentSystem.genruntimeconfig.cache

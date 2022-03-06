@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\zamanjs\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\zamanjs\\.nuget\\packages"
+    ]
+  }
+}
