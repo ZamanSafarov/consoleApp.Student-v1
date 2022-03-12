@@ -20,7 +20,7 @@ namespace StudentSystem
 
         public override string ToString()
         {
-            return $"{Id}. {Name}. ({Speciality})";
+            return $"{Id}. Name: {Name} Speciality: {Speciality}";
         }
 
     }

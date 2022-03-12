@@ -22,7 +22,7 @@ namespace StudentSystem
 
         public override string ToString()
         {
-            return $"{Id}. {Name}. {Surname}. {BirthDate:dd.MM.yyyy} GroupId: {GroupId}";
+            return $"{Id}. Name: {Name} Surname: {Surname} BirthDate: {BirthDate:dd.MM.yyyy} GroupId: {GroupId}";
         }
 
     }
